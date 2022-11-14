@@ -14,3 +14,4 @@ B:
   A:
     
   In terms of advanced features I created the tiles so that they can be moved around and enabled/disabled. The user can press on the button at the bottom left to open another panel which will then show users which tiles are enabled and will allow them to turn them on and off.
+![2022-11-14 15-22-59](https://user-images.githubusercontent.com/91352265/201770507-5d8b54c3-e5fa-4df6-8397-3da1f4c7026c.gif)
