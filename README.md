@@ -13,4 +13,4 @@ B:
   
   A:
     
-     In terms of advanced features I created the tiles so that they can be moved around and enabled/disabled. The user can press on the button at the bottom left to open another panel which will then show users which tiles are enabled and will allow them to turn them on and off.
+  In terms of advanced features I created the tiles so that they can be moved around and enabled/disabled. The user can press on the button at the bottom left to open another panel which will then show users which tiles are enabled and will allow them to turn them on and off.
