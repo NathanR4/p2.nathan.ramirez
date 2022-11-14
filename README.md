@@ -18,3 +18,11 @@ B:
   In terms of advanced features I created the tiles so that they can be moved around and enabled/disabled. The user can press on the button at the bottom left to open another panel which will then show users which tiles are enabled and will allow them to turn them on and off. I decided to go with this extra feature as its primary function is to act as a mirror so if users need the extra mirror space or don't want to see certain tiles, they can move them around or just disable them until they want to see them again.
 
 ![p2 nathan ramirez](https://user-images.githubusercontent.com/91352265/201770910-a84a0097-6198-4439-bacf-6b210350cb8c.gif)
+
+
+Demo Recording:
+
+
+
+https://user-images.githubusercontent.com/91352265/201775617-05e4e710-5ab4-4b20-9032-ea1ff62c9650.mov
+
